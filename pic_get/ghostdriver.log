@@ -1,0 +1,33 @@
+[INFO  - 2018-05-09T07:30:09.294Z] GhostDriver - Main - running on port 53776
+[INFO  - 2018-05-09T07:30:11.391Z] Session [cea40d60-535a-11e8-8c1a-d1a4bfe99df2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-05-09T07:30:11.391Z] Session [cea40d60-535a-11e8-8c1a-d1a4bfe99df2] - page.customHeaders:  - {}
+[INFO  - 2018-05-09T07:30:11.391Z] Session [cea40d60-535a-11e8-8c1a-d1a4bfe99df2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-05-09T07:30:11.391Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cea40d60-535a-11e8-8c1a-d1a4bfe99df2
+[ERROR - 2018-05-09T07:31:04.929Z] Session [cea40d60-535a-11e8-8c1a-d1a4bfe99df2] - page.onError - msg: ReferenceError: Can't find variable: require
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-09T07:31:04.929Z] Session [cea40d60-535a-11e8-8c1a-d1a4bfe99df2] - page.onError - stack:
+  global code (https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&sf=1&fmq=&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&fm=index&pos=history&word=kon:181)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-09T07:31:04.956Z] Session [cea40d60-535a-11e8-8c1a-d1a4bfe99df2] - page.onError - msg: ReferenceError: Can't find variable: define
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-09T07:31:04.956Z] Session [cea40d60-535a-11e8-8c1a-d1a4bfe99df2] - page.onError - stack:
+  global code (https://img1.bdstatic.com/static/common/widget/ui/juicer/juicer_59c3d50.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-09T07:31:04.973Z] Session [cea40d60-535a-11e8-8c1a-d1a4bfe99df2] - page.onError - msg: ReferenceError: Can't find variable: define
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-09T07:31:04.973Z] Session [cea40d60-535a-11e8-8c1a-d1a4bfe99df2] - page.onError - stack:
+  global code (https://img1.bdstatic.com/static/searchresult/pkg/result_e750c91.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-09T07:31:04.975Z] Session [cea40d60-535a-11e8-8c1a-d1a4bfe99df2] - page.onError - msg: ReferenceError: Can't find variable: require
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-09T07:31:04.975Z] Session [cea40d60-535a-11e8-8c1a-d1a4bfe99df2] - page.onError - stack:
+  (anonymous function) (https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&sf=1&fmq=&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&fm=index&pos=history&word=kon:577)
+
+  phantomjs://platform/console++.js:263 in error
